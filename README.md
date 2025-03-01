@@ -9,6 +9,9 @@
 - I’m currently learning **TypeScript, Next.js, Aircrack-ng suites**
 
 - if interested **Unknnown1111@gmail.com**
+- Not all my projects grace social platforms; I build for production, deployment, and impact. **...**
+- I escape into books when the mediocrity of minds of people exhausts me. **....**
+- I thrive for building, not on conforming to the race of the ordinary. **.....**
 
 <div> <a href="https://github.com/Amvnn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:Unknnown1111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
