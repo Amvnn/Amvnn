@@ -60,8 +60,6 @@
 <div align="center">
 <a href="https://github.com/Amvnn">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amvnn&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amvnn&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amvnn&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amvnn&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amvnn&theme=algolia" height="180em" />
 </div>
