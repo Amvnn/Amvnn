@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amvnn" alt="amvnn" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, Next.js, Google OAuth, Aircrack-ng suites**
+-  I’m currently learning **TypeScript, Next.js, Google OAuth, Aircrack-ng suites**
 
-- 💬 Ask me about **MERN stack and Databases designing**
+-  Ask me about **MERN stack and Databases designing**
 
-- 📫 How to reach me **Unknnown1111@gmail.com**
+-  How to reach me **Unknnown1111@gmail.com**
 
-- ⚡ Fun fact **fck off**
+-  Fun fact **fck off**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me if you want:</h3>
 <p align="left">
 <a href="https://instagram.com/stillllunknnown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stillllunknnown" height="30" width="40" /></a>
 </p>
