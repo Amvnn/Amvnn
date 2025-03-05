@@ -1,8 +1,6 @@
 <h1 align="center">It's me Aman</h1>
 <h3 align="center">Passionate tech enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amvnn&theme=dark_lover" alt="Amvnn" /></a> </p>
-
 - I’m currently working on **On my personal project (launching soon...)**
 - I’m looking to collaborate on **web-development and blockchain based projects **
 - I’m currently learning **TypeScript, Next.js, Aircrack-ng suites**
