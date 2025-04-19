@@ -6,7 +6,7 @@
 ###  About Me
 
 -  I’m currently working on myself
--  Learning TypeScript, Next.js, and Offensive Security tools  
+-  Playing with react lately (next target = () => {Next.js}) 
 -  I love blending frontend magic with backend power  
 -  Fun Fact: I escape into books when the mediocrity of minds exhausts me  
 -  Reach me: Unknnown1111@gmail.com  
