@@ -1,5 +1,5 @@
 <h1 align="center">It's me , Aman</h1>
-<h3 align="center">Web Developer  |  Ethical Hacker  |  Photographer | Reader</h3>
+<h3 align="center">Web Developer  |  Ethical Hacker  |  Reader | Photographer</h3>
 
 ---
 
