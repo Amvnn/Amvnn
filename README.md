@@ -7,8 +7,8 @@
 
 -  I’m currently working on myself
 -  Playing with react lately (next target = () => {Next.js}) 
--  I love blending frontend magic with backend power  
--  Fun Fact: I escape into books when the mediocrity of minds exhausts me  
+-  I love to solve real world problems with my project prototypes  
+-  I escape into books when the mediocrity of minds exhausts me  
 -  Reach me: Unknnown1111@gmail.com  
 
 ---
