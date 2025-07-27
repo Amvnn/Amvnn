@@ -9,7 +9,7 @@
 -  Playing with react lately (next target = () => {Next.js}) 
 -  I love to solve real world problems with my project prototypes  
 -  I escape into books when the mediocrity of minds exhausts me  
--  Reach me: Unknnown1111@gmail.com  
+-  Reach me:  amvnnofficial@gmail.com
 
 ---
 
