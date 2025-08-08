@@ -7,7 +7,7 @@
 
 -  I’m currently working on Windows Internals (for Pentesting) And Developing Production ready applications ( Ideas --> Saas ).
 -  Need Team for collaboration Saas Products with Innovative ideas. 
--  We all live in a influence throughout our whole life, which specifies what our Goals and Aims eventually are , either one achieves it or either not. The one who acheives it (find himself in a void where he/she do not know exactly whats next because he/she never thought beyond that destination). And one who can't achieve it ends up either doing it again or convincing himself with excuses.
+-  We all live in a influence throughout our whole life, which specifies what our Goals and Aims eventually are , either one achieves it or either not. The one who achieves it (find himself in a void where he/she do not know exactly whats next because he/she never thought beyond that destination). And one who can't achieve it ends up either doing it again or convincing himself with excuses.
 -  Reach me:  amvnnofficial@gmail.com
 
 ---
