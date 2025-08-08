@@ -5,10 +5,9 @@
 
 ###  About Me
 
--  I’m currently working on myself
--  Playing with react lately (next target = () => {Next.js}) 
--  I love to solve real world problems with my project prototypes  
--  I escape into books when the mediocrity of minds exhausts me  
+-  I’m currently working on Windows Internals (for Pentesting) And Developing Production ready applications ( Ideas --> Saas ).
+-  Need Team for collaboration Saas Products with Innovative ideas. 
+-  We all live in a influence throughout our whole life, which specifies what our Goals and Aims eventually are , either one achieves it or either not. The one who acheives it (find himself in a void where he/she do not know exactly whats next because he/she never thought beyond that destination). And one who can't achieve it ends up either doing it again or convincing himself with excuses.
 -  Reach me:  amvnnofficial@gmail.com
 
 ---
@@ -16,7 +15,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,html,css,tailwind,linux,bash,git,figma,postman,n8n" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,cpp,html,css,tailwind,linux,bash,git,figma,postman,n8n" />
 </p>
 
 ---
